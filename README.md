@@ -1,6 +1,28 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmee.com.br%2Fmario%2F&psig=AOvVaw0Lx2PF8rDsf0LUmXtjyOam&ust=1693392605421000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC0ppjZgYEDFQAAAAAdAAAAABAD
-Barbearia Alura
-Sobre a Barbearia Alura
+![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg)
+![](https://cdn1.gnarususercontent.com.br/1/905642/8a56fc6e-66af-4b03-9180-f2195f7b9983.png)
+
+
+    Home
+    Produtos
+    Contato
+
+    Cabelo
+
+    Na tesoura ou máquina, como o cliente preferir
+
+    R$ 25,00
+    Barba
+
+    Corte e desenho profissional de barba
+
+    R$ 18,00
+    Cabelo + Barba
+
+    Pacote completo de cabelo e barba
+
+    R$ 35,00
+
+© Copyright Barbearia Alura - 2019
 
 Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
 
