@@ -87,3 +87,6 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+
+
+![](![cabelo](https://github.com/marcaopovo/psychic-octo-engine/assets/141027776/aad22a45-92fa-4736-933b-2f0dc395c3db)
