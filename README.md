@@ -1,5 +1,9 @@
 ![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg)
 ![](https://cdn1.gnarususercontent.com.br/1/905642/8a56fc6e-66af-4b03-9180-f2195f7b9983.png)
+![](![beneficios](https://github.com/marcaopovo/psychic-octo-engine/assets/141027776/c1551858-03b4-422f-b111-de757b7c2017)
+
+
+
 
 
     Home
